@@ -1,0 +1,62 @@
+body{
+    Background-color: #3ec261;
+}
+
+.one {
+    Background-color: #f00c1f;
+    Text-align: center;
+    Font-size: 60px;
+    color: #0d8bd4;
+}
+
+H3{
+    Text-align: center;
+}
+.two{
+    Background-color: #d1d5f0;
+Text-align : center;
+Font-size:  28px;
+color: #c91481;
+
+}
+
+
+.Three {
+    Background-color: #3b55eb;
+    Text-align: center;
+    Font-size: 30px;
+    color: #c8faca;
+}
+
+.Four {
+    Background-color: #139cd7;
+    Font-size: 28px;
+    color: #eb4034;
+}
+
+.Five {
+    Background-color: #c11496;
+    Text-align: center;
+    Font-size: 30px;
+    color: #d6d923;
+}
+
+.six{
+    Background-color: #ab111b;
+    Font-size: 28px;
+    color: #f7f711;
+}
+
+.Seven {
+    Background-color: #e38b10;
+    Text-align: center;
+    Font-size: 30px;
+    color: #10a4e3;
+}
+
+.Eight {
+    Background-color: #9e4cc7;
+    Font-size: 28px;
+    color: #58e412;
+}
+
